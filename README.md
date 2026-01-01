@@ -1,4 +1,4 @@
-# 🎮 Steam Voice of Customer (VoC) Analytics Dashboard
+# Steam Voice of Customer (VoC) Analytics Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-ff4b4b)
